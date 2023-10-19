@@ -7,7 +7,7 @@ total_num = n
 n += 1
 lista_numeros = list(range(1, n))
 
-#Obtenermos el valor más alto
+#Obtenemos el valor más alto
 n = lista_numeros[-1]
 #Creamos una lista vacia donde almacenaremos los números primos
 lista_numeros_primos = []
